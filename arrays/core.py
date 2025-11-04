@@ -2,6 +2,7 @@ import array
 from typing import Union
 
 class Array:
+    'Arrays solutions'
     '''Return a new array whose items are restricted by typecode, and
        that can contain at most `size` elements.
 
